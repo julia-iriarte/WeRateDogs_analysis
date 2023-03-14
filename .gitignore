@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+*.csv
+*.py
+*.tsv
+*.docx
+tweet_json.txt
